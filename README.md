@@ -22,12 +22,7 @@ else:
                                           
        Powered By : Salus Lab                                                                                                                    
 ```
-## Other Things I Do:
-Cuz one thing is not enough :joy:
 
-Contribute more to open source community by testing and helping to enhance the code.
-
-![Metrics](https://metrics.lecoq.io/mxamusic?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDubai)
 ## How do I waste my time:
 * Sports 
 * Music / DJ 
